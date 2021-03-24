@@ -1,0 +1,8 @@
+.bs_table{
+    margin: 0;
+}
+
+.bs_table thead tr th{
+    color: #fff;
+    background-color: #999;
+}
